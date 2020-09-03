@@ -25,7 +25,7 @@ the following steps.
 There is one notebook file (attached here) to showcase my work related to the project objective. The notebook is self-explanatory and has Markdown cells & comments to assist in understanding each and every step.
 
 ### Results
-Details about my findings and results can be found at the post available [here](https://medium.com/@sridhar.1983/an-insight-into-fifa-18-ed764ceda75d?source=friends_link&sk=603fd02b7047b743cc86e2e9a37bac2d).
+Details about my findings and results can be found at the post available [here](https://medium.com/@sridhar.1983/user-churn-prediction-using-pyspark-4e14c78720be).
 
 ### Licensing, Authors, Acknowledgements
 I must give credit to Udacity for the below items.
